@@ -153,7 +153,7 @@ $("#clear-btn").click(function () {
 async function loadModel() {
     model = undefined;
     model = await tf.loadLayersModel(
-        "model.json"
+        "./mnist/model.json"
       );
 }
 
