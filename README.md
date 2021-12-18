@@ -4,5 +4,4 @@
     3. Edit index.html:
         1. Add frameworks url (inside script tag) into the head section to  use them. Also add stylesheets (css files inside link tag).
         2. Design the body.
-    4. 
         
